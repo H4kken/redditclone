@@ -1,4 +1,4 @@
-module github.com/gowebexamples/goreddit
+module "github.com/H4kken/reddit-clone"
 
 go 1.14
 
